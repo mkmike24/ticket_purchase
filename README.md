@@ -54,5 +54,3 @@
 //    ```
 // 2. Access the application at `http://localhost:3000`.
 //
-// ## Contributing
-// Contributions are welcome! Feel free to fork the repository and submit a pull request.
