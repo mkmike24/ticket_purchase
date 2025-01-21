@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGO_URI=mongodb://mongo:27017/ticket_service
+      - JWT_SECRET=your_jwt_secret_key
+  mongo:
+    image: mongo
+    ports:
+      - "27017:27017"
