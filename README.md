@@ -16,7 +16,7 @@
 // ## Installation
 // 1. Clone the repository:
 //    ```bash
-//    git clone https://github.com/minpyaegithub/ticket_purchase.git
+//    git clone https://github.com/mkmike24/ticket_purchase.git
 //    ```
 // 2. Install dependencies:
 //    ```bash
